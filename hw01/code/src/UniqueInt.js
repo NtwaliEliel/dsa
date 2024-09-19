@@ -94,4 +94,4 @@ uniqueIntProcessor.processFile(
     path.join(outputDir, resultFileName)
 );
 
-console.log('Processing complete!');
+console.log('Processing complete! 😍 👍');
